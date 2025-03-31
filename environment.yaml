@@ -1,4 +1,4 @@
-name: cartpole-dqn2
+name: cartpole-dqn
 channels:
     - conda-forge
     - default
